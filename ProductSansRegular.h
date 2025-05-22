@@ -1,5 +1,4 @@
-/* D:\Product Sans Regular.ttf (12/18/2016 10:48:52 AM)
-   StartOffset(h): 00000000, EndOffset(h): 0000A09B, Length(h): 0000A09C */
+
 
 unsigned char ProductSansRegular[41116] = {
 	0x00, 0x01, 0x00, 0x00, 0x00, 0x0D, 0x00, 0x80, 0x00, 0x03, 0x00, 0x50,
