@@ -1,5 +1,4 @@
-/* D:\Users\trong\Downloads\Mojangles.ttf (9/26/2023 3:33:58 PM)
-   StartOffset(h): 00000000, EndOffset(h): 000118DB, Length(h): 000118DC */
+
 
 unsigned char Mojangles[71900] = {
 	0x00, 0x01, 0x00, 0x00, 0x00, 0x10, 0x01, 0x00, 0x00, 0x04, 0x00, 0x00,
