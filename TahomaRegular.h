@@ -1,5 +1,3 @@
-/* D:\MelodyV2\MelodyV2\Libs\Fonts\Tahoma Regular font.ttf (7/20/2016 11:45:00 AM)
-   StartOffset(h): 00000000, EndOffset(h): 00040D37, Length(h): 00040D38 */
 
 unsigned char Verdana[265528] = {
 	0x00, 0x01, 0x00, 0x00, 0x00, 0x15, 0x01, 0x00, 0x00, 0x04, 0x00, 0x50,
