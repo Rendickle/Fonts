@@ -1,5 +1,3 @@
-/* D:\UrMomFat-Project\Fonts\BAHNSCHRIFT.TTF (4/5/2019 5:10:10 PM)
-   StartOffset(h): 00000000, EndOffset(h): 0004EDBB, Length(h): 0004EDBC */
 
 unsigned char BahnSchrift[323004] = {
 	0x00, 0x01, 0x00, 0x00, 0x00, 0x18, 0x01, 0x00, 0x00, 0x04, 0x00, 0x80,
