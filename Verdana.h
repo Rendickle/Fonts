@@ -1,5 +1,4 @@
-/* D:\MelodyV2\MelodyV2\Libs\Fonts\verdana.ttf (2/7/2021 7:00:04 PM)
-   StartOffset(h): 00000000, EndOffset(h): 000248F7, Length(h): 000248F8 */
+
 
 unsigned char Verdana[149752] = {
 	0x00, 0x01, 0x00, 0x00, 0x00, 0x14, 0x01, 0x00, 0x00, 0x04, 0x00, 0x40,
